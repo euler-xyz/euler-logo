@@ -1,1 +1,1 @@
-# euler_logo
+# euler-logo
